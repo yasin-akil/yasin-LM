@@ -74,4 +74,4 @@ Extraemos el archivo en /var/www/html/simplecms/
 
         
 
-
+[Enlace a Las imagnes](https://drive.google.com/file/d/1RBGpUQR6oMeC7g69jwE9p6qRy5WhP2be/view?usp=sharing)
