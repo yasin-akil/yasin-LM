@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE empleados SYSTEM "atributos3.DTD">
+<empleados total="3">
+    <empleado id="emp1" seccion="desarrollo">
+        <nombre>Antonio</nombre>
+        <apellidos>martinez munuera</apellidos>
+    </empleado>
+    <empleado id="emp2" seccion="sistemas">
+        <nombre>maria</nombre>
+        <apellidos>margarita flamenca</apellidos>
+    </empleado>
+    <empleado id="emp3" seccion="desarrollo">
+        <nombre>jose</nombre>
+        <apellidos>naranjo mendilivar</apellidos>
+    </empleado>
+</empleados>

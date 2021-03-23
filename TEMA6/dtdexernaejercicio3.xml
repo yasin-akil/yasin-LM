@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE automovil SYSTEM "ejercicio3dtdexterna.DTD>
+<automovil>
+    <datos>
+        <marca>Volkswagen</marca>
+        <modelo>Corrado</modelo>
+        <anyo>1989</anyo>
+    </datos>
+    <especificaciones>
+        <longitud>4,05</longitud>
+        <traccion-delantera/>
+        <motor>
+            <cilindros>6</cilindros>
+            <cc>3000</cc>
+            <cv>190</cv>
+        </motor>
+    </especificaciones>
+</automovil>

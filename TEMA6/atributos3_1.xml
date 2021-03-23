@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ies nombre="IES Celia Viñas">
+     <modulos>
+        <modulo id="m371" curso="2">
+            <nombre>Aplicaciones web</nombre>
+            <ciclo>SMR</ciclo>
+        </modulo>
+        <modulo id="m372" curso="1">
+            <nombre>Gestión de bases de datos</nombre>
+            <ciclo>ASIR</ciclo>
+        </modulo>
+        <modulo id="m373" curso="1">
+            <nombre>Lenguajes de marcas y sistemas de gestión de información</nombre>
+            <ciclo>ASIR</ciclo>
+            <ciclo>DAW</ciclo>
+        </modulo>
+        <modulo id="m376" curso="2">
+            <nombre>Implantación de aplicaciones web</nombre>
+            <ciclo>ASIR</ciclo>
+        </modulo>
+    </modulos>
+</ies>

@@ -1,0 +1,7 @@
+<!ELEMENT empleados (empleado*)>
+<!ATTLIST empleados total CDATA #REQUIRED>
+<!ELEMENT empleado (nombre, apellidos)>
+<!ATTLIST empleado id ID #REQUIRED>
+<!ATTLIST empleado seccion (desarrollo | sistemas) "sistemas">
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT apellidos (#PCDATA)>

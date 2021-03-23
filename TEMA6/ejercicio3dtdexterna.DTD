@@ -1,0 +1,15 @@
+<!DOCTYPE automovil [
+    <!ELEMENT automovil (datos, especificaciones)>
+    <!ELEMENT datos (marca, modelo, anyo)>
+    <!ELEMENT marca (#PCDATA)>
+    <!ELEMENT modelo (#PCDATA)>
+    <!ELEMENT anyo (#PCDATA)>
+    <!ELEMENT especificaciones (longitud, traccion-delantera, motor)>
+    <!ELEMENT longitud (#PCDATA)>
+    <!ELEMENT traccion-delantera (#PCDATA)>
+    <!ELEMENT motor (cilindros, cc, cv)>
+    <!ELEMENT cilindros (#PCDATA)>
+    <!ELEMENT cc (#PCDATA)>
+    <!ELEMENT cv (#PCDATA)>
+    
+]>

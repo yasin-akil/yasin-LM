@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE automovil [
+    <!ELEMENT automovil (datos, especificaciones)>
+    <!ELEMENT datos (marca, modelo, anyo)>
+    <!ELEMENT marca (#PCDATA)>
+    <!ELEMENT modelo (#PCDATA)>
+    <!ELEMENT anyo (#PCDATA)>
+    <!ELEMENT especificaciones (longitud, traccion-delantera, motor)>
+    <!ELEMENT longitud (#PCDATA)>
+    <!ELEMENT traccion-delantera (#PCDATA)>
+    <!ELEMENT motor (cilindros, cc, cv)>
+    <!ELEMENT cilindros (#PCDATA)>
+    <!ELEMENT cc (#PCDATA)>
+    <!ELEMENT cv (#PCDATA)>
+    
+]>
+<automovil>
+    <datos>
+        <marca>Volkswagen</marca>
+        <modelo>Corrado</modelo>
+        <anyo>1989</anyo>
+    </datos>
+    <especificaciones>
+        <longitud>4,05</longitud>
+        <traccion-delantera/>
+        <motor>
+            <cilindros>6</cilindros>
+            <cc>3000</cc>
+            <cv>190</cv>
+        </motor>
+    </especificaciones>
+</automovil>
